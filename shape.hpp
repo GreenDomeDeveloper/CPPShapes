@@ -4,9 +4,9 @@
 class Shape {
 
 public:
-    virtual double getArea() = 0;
+    virtual double getArea()=0;
 
-    virtual void printInfo() = 0;
+    virtual void printInfo()=0;
     
 };
 
